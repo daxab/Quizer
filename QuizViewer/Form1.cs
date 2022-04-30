@@ -20,8 +20,7 @@ namespace SimpleQuizer.Viewer
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            Class1 c = new Class1();
-            c.r();
+           
         }
     }
 }

@@ -4,3 +4,9 @@ C:\Users\User_01\Desktop\QuizViewer\QuizLibrary\bin\Debug\SimpleQuizer.pdb
 C:\Users\User_01\Desktop\QuizViewer\QuizLibrary\obj\Debug\SimpleQuizer.dll
 C:\Users\User_01\Desktop\QuizViewer\QuizLibrary\obj\Debug\SimpleQuizer.pdb
 C:\Users\User_01\Desktop\QuizViewer\QuizLibrary\obj\Debug\QuizLibrary.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\SimpleQuizer\Quizer\QuizLibrary\bin\Debug\SimpleQuizer.dll
+C:\Users\Роман\Desktop\SimpleQuizer\Quizer\QuizLibrary\bin\Debug\SimpleQuizer.pdb
+C:\Users\Роман\Desktop\SimpleQuizer\Quizer\QuizLibrary\obj\Debug\QuizLibrary.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\SimpleQuizer\Quizer\QuizLibrary\obj\Debug\QuizLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\SimpleQuizer\Quizer\QuizLibrary\obj\Debug\SimpleQuizer.dll
+C:\Users\Роман\Desktop\SimpleQuizer\Quizer\QuizLibrary\obj\Debug\SimpleQuizer.pdb
